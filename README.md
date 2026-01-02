@@ -52,7 +52,7 @@ Comparison of average delivery times across routes to identify efficient and und
 
 
 
-## Business Recommendations (Chart-Linked)
+## Business Recommendations 
 
 On-Time vs Delayed Deliveries: Prioritize operational reviews on delayed shipments to improve overall service reliability.
 
