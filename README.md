@@ -43,12 +43,15 @@ Comparison of on-time and delayed deliveries, highlighting overall delivery perf
 Fuel Consumption Vs Distribution
 
 ![Fuel Consumption vs Distribution](fuel_vs_distance.png)
+Relationship between delivery distance and fuel consumption, revealing key logistics cost drivers.
+
+Average Delivery Time by Route
+
+![Average Delivery vs Route](delivery_time_distribution.png)
+Comparison of average delivery times across routes to identify efficient and underperforming routes.
 
 
 
-
-
-Distribution of delivery times showing typical completion windows and potential delay outliers.
 
 
 Outputs
