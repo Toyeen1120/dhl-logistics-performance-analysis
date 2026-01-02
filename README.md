@@ -36,7 +36,7 @@ Sample Visualisations
 
 On-Time vs Delayed Deliveries
 
-https://github.com/Toyeen1120/dhl-logistics-performance-analysis/blob/main/on_time_vs_delayed.png
+![On-Time vs Delayed Deliveries](on_time_vs_delayed.png)
 
 Comparison of on-time and delayed deliveries, highlighting overall delivery performance and reliability.
 Outputs
