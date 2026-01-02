@@ -52,6 +52,17 @@ Comparison of average delivery times across routes to identify efficient and und
 
 
 
+## Business Recommendations (Chart-Linked)
+
+On-Time vs Delayed Deliveries: Prioritize operational reviews on delayed shipments to improve overall service reliability.
+
+Delivery Time Distribution: Adjust delivery windows and scheduling to reduce outliers causing excessive delays.
+
+Fuel Consumption vs Distance: Optimize long-distance routing and delivery consolidation to control fuel costs.
+
+Average Delivery Time by Route: Focus improvement efforts on consistently underperforming routes to enhance efficiency.
+
+Delay Rate by Vehicle Type: Deploy more reliable vehicle types on time-sensitive routes to reduce delivery delays.
 
 
 ## Outputs
