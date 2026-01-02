@@ -42,8 +42,9 @@ Comparison of on-time and delayed deliveries, highlighting overall delivery perf
 
 Fuel Consumption Vs Distribution
 
+![Fuel Consumption vs Distribution](images/fuel_vs_distance.png)
 
-fuel_vs_distance.png
+
 
 
 
