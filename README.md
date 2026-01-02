@@ -32,6 +32,12 @@ Identified routes with higher delay frequencies
 Observed fuel consumption patterns relative to distance
 Highlighted opportunities for route optimization and improved scheduling
 
+Sample Visualisations
+
+On-Time vs Delayed Deliveries
+
+
+Comparison of on-time and delayed deliveries, highlighting overall delivery performance and reliability.
 Outputs
 
 This repository includes the Jupyter notebook used for analysis and sample charts generated from the data.
