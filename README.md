@@ -39,6 +39,17 @@ On-Time vs Delayed Deliveries
 ![On-Time vs Delayed Deliveries](on_time_vs_delayed.png)
 
 Comparison of on-time and delayed deliveries, highlighting overall delivery performance and reliability.
+
+Fuel Consumption Vs Distribution
+
+
+fuel_vs_distance.png
+
+
+
+Distribution of delivery times showing typical completion windows and potential delay outliers.
+
+
 Outputs
 
 This repository includes the Jupyter notebook used for analysis and sample charts generated from the data.
